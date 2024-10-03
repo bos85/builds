@@ -41,8 +41,10 @@ a:hover {
     background: #36304a;
     width: 1300px;
     padding-top: 3px;
+    padding-bottom: 3px;
     font-size: 15px;
     text-align: center;
+    border-bottom: 1px solid #c8c8c8;
 
 }
 
